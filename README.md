@@ -2,15 +2,19 @@
 
 #### Sobre Mim: 📚✨🚀
 
-* Olá, visitante do meu perfil! 👋 No meu precioso tempo livre, mergulho nas páginas dos mais fascinantes livros, desafio meu corpo com exercícios revigorantes, viajo por mundos cinematográficos e animados através de filmes, séries e animes, e me aventuro em emocionantes desafios virtuais nos jogos.
+- Olá, visitante do meu perfil! 👋 No meu precioso tempo livre, mergulho nas páginas dos mais fascinantes livros, desafio meu corpo com exercícios revigorantes, viajo por mundos cinematográficos e animados através de filmes, séries e animes, e me aventuro em emocionantes desafios virtuais nos jogos.
 
 #### 🌐 Explorando o Mundo do Desenvolvimento Web:
 
-* Atualmente, estou imerso no estimulante universo da programação! Estou trilhando meu caminho para me tornar um Desenvolvedor Web Full Stack, participando entusiasticamente do programa Starter da Growdev.
+- Recém-formado no programa de Formação de Desenvolvedor Web Full Stack pela Growdev, estou imerso em uma empolgante jornada no mundo do desenvolvimento.
+
+- Atualmente, faço parte de um inspirador projeto voluntário na SouJunior Labs, onde exerço meu talento no front-end, dando vida às interfaces a partir de designs elaborados no Figma.
+
+- Cada tela é uma oportunidade para aprimorar minhas habilidades e adquirir valiosa experiência como desenvolvedor. ansioso para contribuir e crescer ainda mais nesta vibrante comunidade de tecnologia."
 
 #### 🚀 Foco Atual: Front End
 
-* Neste momento, me dedico intensamente ao estudo e aprimoramento das habilidades necessárias para a construção de interfaces incríveis. A magia do Front End é meu foco, e estou ansioso para compartilhar minha jornada de aprendizado e conquistas aqui no GitHub.
+- Neste momento, me dedico intensamente ao estudo e aprimoramento das habilidades necessárias para a construção de interfaces incríveis. A magia do Front End é meu foco, e estou ansioso para compartilhar minha jornada de aprendizado e conquistas aqui no GitHub.
 
 **Vamos codificar o futuro juntos! 💻✨**
 
@@ -25,9 +29,10 @@
 </div>
 
 ##
+
 <div>
 
-  ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrofn3&show_icons=true&theme=dark)
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrofn3&show_icons=true&theme=dark)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofn3&layout=compact&langs_count=7&theme=dark"/>
 
