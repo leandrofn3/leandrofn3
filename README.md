@@ -1,55 +1,109 @@
-### Olá! Eu sou o Leandro Fernandes!!! 👋
+<h1 align="center">👋 Olá, eu sou o Leandro Fernandes</h1>
 
-#### Sobre Mim: 📚✨🚀
+<h3 align="center">
+Full Stack Web Developer • React.js • Node.js
+</h3>
 
-- Olá, visitante do meu perfil! 👋 No meu precioso tempo livre, mergulho nas páginas dos mais fascinantes livros, desafio meu corpo com exercícios revigorantes, viajo por mundos cinematográficos e animados através de filmes, séries e animes, e me aventuro em emocionantes desafios virtuais nos jogos.
+<p align="center">
+Construo aplicações web modernas, performáticas e centradas na experiência do usuário, conectando interfaces intuitivas a APIs escaláveis.
+</p>
 
-#### 🌐 Explorando o Mundo do Desenvolvimento Web:
+---
 
-- Recém-formado no programa de Formação de Desenvolvedor Web Full Stack pela Growdev, estou imerso em uma empolgante jornada no mundo do desenvolvimento.
+# 👨‍💻 Sobre mim
 
-- Atualmente, faço parte de um inspirador projeto voluntário na SouJunior Labs, onde exerço meu talento no front-end, dando vida às interfaces a partir de designs elaborados no Figma.
+Sou **Desenvolvedor Full Stack** focado em construir aplicações web modernas, escaláveis e orientadas a experiência do usuário.
 
-- Cada tela é uma oportunidade para aprimorar minhas habilidades e adquirir valiosa experiência como desenvolvedor. ansioso para contribuir e crescer ainda mais nesta vibrante comunidade de tecnologia."
+Tenho **formação intensiva em Desenvolvimento Web (1000h) pela Growdev**, onde desenvolvi diversos projetos práticos envolvendo:
 
-#### 🚀 Foco Atual: Front End
+- Construção de **CRUDs completos**
+- Consumo de **APIs REST**
+- **Manipulação avançada da DOM**
+- **Organização e arquitetura de código**
+- **Versionamento com Git**
+- **Trabalho colaborativo em equipe**
 
-- Neste momento, me dedico intensamente ao estudo e aprimoramento das habilidades necessárias para a construção de interfaces incríveis. A magia do Front End é meu foco, e estou ansioso para compartilhar minha jornada de aprendizado e conquistas aqui no GitHub.
+Atualmente participo do programa **Vestetech**, aprofundando conhecimentos em **Front-End e arquitetura de aplicações utilizando o ecossistema VTEX IO**, com foco em:
 
-**Vamos codificar o futuro juntos! 💻✨**
+- Performance
+- Componentização
+- Boas práticas de desenvolvimento
 
-##
+Busco evoluir continuamente em **JavaScript, TypeScript e arquitetura de software**, aplicando princípios como:
 
-### Contatos
+- Clean Code
+- Reutilização de componentes
+- Escalabilidade
+- Organização de código
 
-<div>
-    <a href = "mailto:lf1938833@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/leandro-fernandes-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "https://wa.me/5534998848603"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
+Meu objetivo é atuar em **projetos desafiadores que transformem problemas reais em soluções digitais eficientes e escaláveis.**
 
-##
+---
 
-<div>
+# 🚀 Tech Stack
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrofn3&show_icons=true&theme=dark)
+### Front-End
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofn3&layout=compact&langs_count=7&theme=dark"/>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-</div>
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-##
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### LINGUAGENS QUE ESTOU ESTUDANDO ATUALMENTE.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="icon-HTML" height="40" width="45" src="https://devicons.dev.br/icons?icon=HTML&size=40&theme=dark">
-    <img align="center" alt="icon-CSS" height="40" width="45" src="https://devicons.dev.br/icons?icon=CSS&size=40&theme=dark">
-    <img align="center" alt="icon-Js" height="40" width="45" src="https://devicons.dev.br/icons?icon=JavaScript&size=40&theme=dark">
-    <img align="center" alt="icon-Ts" height="40" width="45" src="https://devicons.dev.br/icons?icon=TypeScript&size=40&theme=dark">
-    <img align="center" alt="icon-Bootstrap" height="40" width="45" src="https://devicons.dev.br/icons?icon=Bootstrap&size=40&theme=dark">
-    <img align="center" alt="icon-React" height="40" width="45" src="https://devicons.dev.br/icons?icon=React&size=40&theme=dark">
-    <img align="center" alt="icon-Node.js" height="40" width="45" src="https://devicons.dev.br/icons?icon=NodeJS&size=40&theme=dark">
-      <img align="center" alt="icon-Sql" height="40" width="45" src="https://devicons.dev.br/icons?icon=PostgreSQL&size=40&theme=dark">
-        <img align="center" alt="icon-Prisma" height="40" width="45" src="https://devicons.dev.br/icons?icon=Prisma&size=40&theme=dark">
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Back-End
+
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40"/>
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![REST API](https://img.shields.io/badge/API_REST-005571?style=for-the-badge)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandrofn3&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofn3&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="mailto:lf1938833@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/leandro-fernandes-nascimento/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5534998848603">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+🚀 Aberto a oportunidades como Desenvolvedor Full Stack ou Front-End
+</p>
